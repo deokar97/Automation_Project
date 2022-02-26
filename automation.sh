@@ -1,6 +1,6 @@
 #Variables
 name="tayyab"
-s3_bucket="your_bucket"
+s3_bucket="upgrad-shrutika"
 
 # update the ubuntu repositories
 apt update -y
